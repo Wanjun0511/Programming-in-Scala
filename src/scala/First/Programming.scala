@@ -1,15 +1,17 @@
 package scala.First
 
+import scala.collection.immutable.HashSet
+
 /**
   * Created by liuwanjun on 6/3/16.
   */
 object Programming extends App{
 
-  var Cap=Map("China"->"Beijing","US"->"Washington")  //定义了一个映射
+  var Cap=Map("China"->"Beijing","US"->"Washington")  //定义了一个映射,默认是不可变的Map
   Cap += ("Japan"->"Tokyo")  //必须用var定义才能添加
   println(Cap("Japan"))
 
-  def max(x:Int,y:Int):Int= if(x>y) x else y   //用def定义变量
+  def max(x:Int,y:Int):Int= if(x>y) x else y   //用def定义函数
   println(max(5,11))
 
   val Num=List(1,2,3)  //List是不可变的同类对象序列
@@ -26,6 +28,7 @@ object Programming extends App{
   Args.foreach(arg=>println(arg))   //用foreach做枚举,arg是函数字面量。相当于for(arg<-Args). arg是val.
   Args.foreach(print)   // 当函数字面量只有一行语句并且只有一个参数时,不需要指代参数
 
+  ////////////////数组Array///////////////////////////////
   val lwj=new Array[String](3)    //新建一个长度为3的字符串数组
   lwj(0)="Liu"
   lwj(1)="Zi"
@@ -39,6 +42,7 @@ object Programming extends App{
   print("\n")
   //val lwj=Array("Liu","Wan","Jun")
 
+  //////////////////列表List//////////////////////////////
   val First=List(1,2,3)  //List是不可变的同类对象序列, Array是可变的同类对象序列
   print(First)
   val Second=List(5,6,7)
@@ -59,5 +63,22 @@ object Programming extends App{
   println(S1)
   val S2=Thrill.dropRight(2) //去掉后两个元素
   println(S2)
+
+  /////////////////不可变集set//////////////////////////////
+  var jetSet=Set("Boing","Airbus")
+  jetSet +="Lear"    //对不可变集使用+实际是创建了新的set,重新赋给了jetSet
+  //由于对不可变集使用+必须要重新赋值,所以jetSet必须定义为var
+  println(jetSet.contains("Lear"))
+  //如果要定义可变的Set, 就需要加入引用
+  // import scala.collection.mutable.Set
+  //并且定义成val。默认是使用不可变的。见Programming1
+
+  var hashSet=HashSet("Tomatoes","Chilies")  // 见上面的import,不可变的HashSet
+  hashSet+="Coriander"   //使用+的时候必须定义成var,但如果不使用+,则可以定义成val
+  println(hashSet)
+
+
+  //可变的Map,见Programming1
+
 
 }
