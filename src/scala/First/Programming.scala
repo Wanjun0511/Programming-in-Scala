@@ -5,6 +5,8 @@ import scala.collection.immutable.HashSet
 /**
   * Created by liuwanjun on 6/3/16.
   */
+
+
 object Programming extends App{
 
   var Cap=Map("China"->"Beijing","US"->"Washington")  //定义了一个映射,默认是不可变的Map
