@@ -11,7 +11,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Apache_Spark/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Apache_Spark/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Apache_Spark/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scala/First/Programming2.scala" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/colors/my.icls" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/inspection/Default.xml" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/IntelliLang.xml" />
@@ -43,23 +42,7 @@
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/vim_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/web-browsers.xml" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/window.manager.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/scala/First/data" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming$$anonfun$1.class" afterPath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming$$anonfun$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming$$anonfun$2.class" afterPath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming$$anonfun$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming$$anonfun$3.class" afterPath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming$$anonfun$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming$$anonfun$4.class" afterPath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming$$anonfun$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming$$anonfun$5.class" afterPath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming$$anonfun$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming$$anonfun$6.class" afterPath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming$$anonfun$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming$.class" afterPath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming$delayedInit$body.class" afterPath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming$delayedInit$body.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming1$.class" afterPath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming1$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming1$delayedInit$body.class" afterPath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming1$delayedInit$body.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming1.class" afterPath="$PROJECT_DIR$/out/production/IDEA/scala/First/Programming1.class" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/Coursera/R programming/ProgrammingAssignment2-master/README.md" afterPath="$USER_HOME$/Desktop/Coursera/R programming/ProgrammingAssignment2-master/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IDEA.iml" afterPath="$PROJECT_DIR$/IDEA.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scala/First/Programming.scala" afterPath="$PROJECT_DIR$/src/scala/First/Programming.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scala/First/Programming1.scala" afterPath="$PROJECT_DIR$/src/scala/First/Programming1.scala" />
     </list>
     <ignored path="FirstProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -107,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/src/scala/First/Programming2.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -585,7 +568,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -595,7 +578,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23259494" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32753164" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32753164" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25485438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -707,7 +690,7 @@
     <entry file="file://$PROJECT_DIR$/src/scala/First/Programming2.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
